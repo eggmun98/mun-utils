@@ -9,6 +9,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "mun-utils": "^0.0.2"
+  },
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }

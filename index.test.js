@@ -1,4 +1,4 @@
-const { add, multiply, divide, subtract } = require(".");
+import { add, multiply, divide, subtract } from "mun-utils";
 
 it("T01_더하기", () => {
   const result = add(1, 3);
