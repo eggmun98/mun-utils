@@ -1,0 +1,7 @@
+{
+  "name": "mun-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "eggmun",
+  "license": "MIT"
+}
