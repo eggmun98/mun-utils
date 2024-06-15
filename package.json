@@ -3,5 +3,12 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "eggmun",
-  "license": "MIT"
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
